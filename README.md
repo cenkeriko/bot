@@ -1,1 +1,1 @@
-# bot
+# Ben bir discord botu yazdım bu discord botuyla her 30 gün için farklıilginç bir bilgi ediniyorsunuz arkadaşlarınızla paylaşabileceğinizbu bilgileri biliyormuydunuz? Yukarıdaki kodu inceleyip öğrenebilirsiniz nu nilgileri basit komutlarla ulaşabilirsiniz
